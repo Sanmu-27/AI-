@@ -2,7 +2,8 @@
 
 这是一个基于Java Swing和OpenCV开发的桌面应用程序，用于自动检测布匹图像中的缺陷，并利用AI服务生成专业的质量分析报告。
 
-**项目仓库地址**: [https://github.com/Sanmu-27/AI-](https://github.com/Sanmu-27/AI-)
+**项目仓库地址**: [https://github.com/Sanmu-27/AI-](https://github.com/Sanmu-27/Fabric-Defect-Detection-System
+)
 
 ## ✨ 主要功能
 
